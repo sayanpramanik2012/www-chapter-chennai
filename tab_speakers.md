@@ -3,14 +3,22 @@ title: speakers
 displaytext: Speakers
 layout: null
 tab: true
-order: 1
-tags: Chennai OWASP Chapter India
+order: 4
+tags: owasp-vijayawada
+
 ---
-
 ## Speakers
-<img src="assets/images/logo/call_for_paper.png"/>
 
-Would you like to speak on the upcoming OWASP Chennai meetup? [Contact Us](mailto:owasp-chennai@owasp.org)
+If you would like to speak in the OWASP Vijayawada Events.Share your profile in the following format to
+
+**For participation:**
+- [Sayan Pramanik](mailto:sayanpramanik2012@gmail.com)
+- [Hasan Firnas]
+
+**For Queries:**
+- [Albert Mayan John]
+- [Dhamodaran Sambandan]
+
 
 **Email Format :**
 
